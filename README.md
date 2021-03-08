@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
 
-# Run Project
+## Run Project
 1. Install NodeJS
 2. `npm install`
 3. `ng serve`
